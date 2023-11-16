@@ -1,0 +1,16 @@
+body {
+    background-color: aliceblue 
+
+}
+
+.nav {
+    font-size: 20px;
+    text-align: center;
+}
+.footer1 button { 
+    background-color: aqua;
+        margin-bottom: 5px;}
+        .logo-sign in {
+            width: 100;
+            height: auto;
+        }
